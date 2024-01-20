@@ -9,7 +9,7 @@ This repository contains a Churn Prediction model trained using a deep learning 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -31,4 +31,8 @@ To set up the project, follow these steps:
    git clone { 'copy and paste the link' }
    cd customerchurn model
    streamlit run main.py
+
+
+   
+<img width="960" alt="churn" src="https://github.com/shivasish05/Data-Science-Projects/assets/98316576/ee622307-c599-4f7b-8c54-d9f9f98d1d9c">
 
